@@ -1,0 +1,28 @@
+/* frontend/src/index.css */
+
+/* This is the main import for Tailwind v4 */
+@import "tailwindcss";
+
+/* Here we define our custom theme extensions directly in CSS */
+@theme {
+  /* We create CSS variables for our animations */
+  --animation-fade-in-up: fade-in-up 0.8s ease-out forwards;
+  --animation-subtle-float: subtle-float 6s ease-in-out infinite;
+
+  /* And we define the keyframes for those animations */
+  @keyframes fade-in-up {
+    '0%': {
+      opacity: '0',
+      transform: 'translateY(20px)'
+    }
+    '100%': {
+      opacity: '1',
+      transform: 'translateY(0)'
+    }
+  }
+
+  @keyframes subtle-float {
+    '0%, 100%': { transform: 'translateY(0)' }
+    '50%': { transform: 'translateY(-10px)' }
+  }
+}
