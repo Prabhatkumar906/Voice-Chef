@@ -3,7 +3,7 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import { useParams } from 'react-router-dom';
-import axios from 'axios';
+import axios from '../api/axios';
 import { Mic, MicOff, Volume2, VolumeX, HelpCircle, Sparkles, Loader, Languages, GlassWater, Grape, Beer, UtensilsCrossed,Speech } from 'lucide-react';
 
 // --- Reusable Sub-Components ---

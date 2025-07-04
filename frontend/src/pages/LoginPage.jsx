@@ -2,7 +2,7 @@
 // Redesigned for a modern, clean look.
 
 import React, { useState } from 'react';
-import axios from 'axios';
+import axios from '../api/axios';
 import { useNavigate } from 'react-router-dom';
 import { Mail, Loader } from 'lucide-react';
 

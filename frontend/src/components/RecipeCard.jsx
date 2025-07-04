@@ -3,7 +3,7 @@
 
 import React from 'react';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
+import axios from '../api/axios';
 import { Clock, Bookmark } from 'lucide-react';
 
 const RecipeCard = ({ recipe }) => {

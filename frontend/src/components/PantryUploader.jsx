@@ -2,7 +2,7 @@
 // A new component for the "Visual Pantry Chef" feature.
 
 import React, { useState, useRef } from 'react';
-import axios from 'axios';
+import axios from '../api/axios';
 import { UploadCloud, X, Loader, Image as ImageIcon } from 'lucide-react';
 
 const PantryUploader = ({ onIngredientsFound, onCancel }) => {

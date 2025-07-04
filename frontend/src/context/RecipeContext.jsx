@@ -2,7 +2,7 @@
 // This new context will manage the state for recipe searches across the app.
 
 import React, { createContext, useState, useContext } from 'react';
-import axios from 'axios';
+import axios from '../api/axios';
 
 // 1. Create the Context
 const RecipeContext = createContext(null);

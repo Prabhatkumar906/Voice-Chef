@@ -2,7 +2,7 @@
 // Redesigned to allow viewing and editing of user profile information.
 
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import axios from '../api/axios';
 import { User, Book, Calendar, Edit, Save, X, UploadCloud } from 'lucide-react';
 
 const ProfilePage = () => {

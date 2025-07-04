@@ -2,7 +2,7 @@
 // This is the new page to display the user's saved recipes.
 
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import axios from '../api/axios';
 import RecipeCard from '../components/RecipeCard';
 import { BookMarked, Trash2 } from 'lucide-react';
 
