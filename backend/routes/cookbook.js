@@ -3,7 +3,7 @@
 const express = require('express');
 const router = express.Router();
 const authMiddleware = require('../middleware/authMiddleware');
-const User = require('../models/user');
+const User = require('../models/User');
 
 // @route   POST /api/cookbook/save
 // @desc    Save a recipe to the user's cookbook
