@@ -64,8 +64,7 @@ Here's a look at the VoiceChef application in action, showcasing its modern UI a
 
 | Landing Page (Logged Out) | Pantry Chef (Logged In) |
 | :---: | :---: |
-| ![Landing Page Screenshot 1](https://github.com/user-attachments/assets/f49ce4fa-4557-47d6-9d4b-19c4bdfcdb43) <br> ![Landing Page Screenshot 2](https://github.com/user-attachments/assets/05bde150-3e44-495e-bb69-f49a4a222b07) <br> ![Landing Page Screenshot 3](https://github.com/user-attachments/assets/d40d519c-3204-4342-bcbd-ca46d34c82d4) <br> ![Landing Page Screenshot 4](https://github.com/user-attachments/assets/1e355905-ec15-44fd-ab1d-22bf77350ddb) | ![Pantry Chef Search](https://github.com/user-attachments/assets/63d89fb9-7786-40a4-a3de-810e8a7b569d
-) |
+| ![Landing Page Screenshot 1](https://github.com/user-attachments/assets/f49ce4fa-4557-47d6-9d4b-19c4bdfcdb43) <br> ![Landing Page Screenshot 2](https://github.com/user-attachments/assets/05bde150-3e44-495e-bb69-f49a4a222b07) <br> ![Landing Page Screenshot 3](https://github.com/user-attachments/assets/d40d519c-3204-4342-bcbd-ca46d34c82d4) <br> ![Landing Page Screenshot 4](https://github.com/user-attachments/assets/1e355905-ec15-44fd-ab1d-22bf77350ddb) | ![Pantry Chef Search](https://github.com/user-attachments/assets/63d89fb9-7786-40a4-a3de-810e8a7b569d) |
 | **My Cookbook Page** | **My Profile Page** |
 | ![My Cookbook Page](https://github.com/user-attachments/assets/a9051da7-3f22-4c86-9111-87e1199e78e4) | ![Profile Page](https://github.com/user-attachments/assets/eebe9c2d-f8ff-4622-9dc1-a2d7c2460e99) |
 
@@ -75,9 +74,9 @@ Here's a look at the VoiceChef application in action, showcasing its modern UI a
 
 | AI Image Analysis & Results | AI Recipe Pairings |
 | :---: | :---: |
-| ![AI Image Analysis](https://github.com/user-attachments/assets/98cd6903-7cbe-41e8-ab37-1946c41f3f46) | ![AI Pairings](https://github.com/user-attachments/assets/2e014594-06d6-48ad-b4e4-bafa5819afa6) |
+| ![AI Image Analysis](https://github.com/user-attachments/assets/cbc2be54-03f5-4416-b116-22be99331165) | ![AI Pairings](https://github.com/user-attachments/assets/ad1465ae-6c04-4395-b983-2cf663e58269) |
 | **Recipe Detail Page** | **Voice Command Guide** |
-| ![Recipe Detail Page](https://github.com/user-attachments/assets/74db9e4b-f3fe-4b0c-80c6-010b40110256) | ![Voice Command Guide](https://github.com/user-attachments/assets/e4a4a37e-1608-45ca-aa90-c23f2fcc8a06) |
+| ![Recipe Detail Page](https://github.com/user-attachments/assets/74db9e4b-f3fe-4b0c-80c6-010b40110256) | ![Voice Command Guide](https://github.com/user-attachments/assets/e2d4f379-0d2b-4443-a705-4b096a9d5f1f) |
 
 ---
 
