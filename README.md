@@ -64,9 +64,10 @@ Here's a look at the VoiceChef application in action, showcasing its modern UI a
 
 | Landing Page (Logged Out) | Pantry Chef (Logged In) |
 | :---: | :---: |
-| ![Landing Page Screenshot 1](https://github.com/user-attachments/assets/f49ce4fa-4557-47d6-9d4b-19c4bdfcdb43) <br> ![Landing Page Screenshot 2](https://github.com/user-attachments/assets/05bde150-3e44-495e-bb69-f49a4a222b07) <br> ![Landing Page Screenshot 3](https://github.com/user-attachments/assets/d40d519c-3204-4342-bcbd-ca46d34c82d4) <br> ![Landing Page Screenshot 4](https://github.com/user-attachments/assets/1e355905-ec15-44fd-ab1d-22bf77350ddb) | ![Pantry Chef Search](https://github.com/user-attachments/assets/8a254cd0-03aa-4d63-a8b3-931ac96dda55) |
+| ![Landing Page Screenshot 1](https://github.com/user-attachments/assets/f49ce4fa-4557-47d6-9d4b-19c4bdfcdb43) <br> ![Landing Page Screenshot 2](https://github.com/user-attachments/assets/05bde150-3e44-495e-bb69-f49a4a222b07) <br> ![Landing Page Screenshot 3](https://github.com/user-attachments/assets/d40d519c-3204-4342-bcbd-ca46d34c82d4) <br> ![Landing Page Screenshot 4](https://github.com/user-attachments/assets/1e355905-ec15-44fd-ab1d-22bf77350ddb) | ![Pantry Chef Search](https://github.com/user-attachments/assets/63d89fb9-7786-40a4-a3de-810e8a7b569d
+) |
 | **My Cookbook Page** | **My Profile Page** |
-| ![My Cookbook Page](https://github.com/user-attachments/assets/0085de61-f5d2-430e-8290-d58dfc007cdd) | ![Profile Page](https://github.com/user-attachments/assets/e69d0ac4-3208-4812-a88a-a8658ff478f5) |
+| ![My Cookbook Page](https://github.com/user-attachments/assets/a9051da7-3f22-4c86-9111-87e1199e78e4) | ![Profile Page](https://github.com/user-attachments/assets/eebe9c2d-f8ff-4622-9dc1-a2d7c2460e99) |
 
 ---
 
