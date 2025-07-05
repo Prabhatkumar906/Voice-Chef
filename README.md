@@ -4,7 +4,7 @@
 
 VoiceChef is a full-stack MERN application designed to revolutionize your home cooking experience. It acts as an intelligent kitchen companion that helps you discover recipes, plan meals, and cook with hands-free voice guidance, enhanced by cutting-edge AI features.
 
-![VoiceChef Hero Image]("https://github.com/user-attachments/assets/347fe9c4-a52b-4215-a3a7-24693140b433") 
+![VoiceChef Hero Image](https://github.com/user-attachments/assets/f49ce4fa-4557-47d6-9d4b-19c4bdfcdb43) 
 
 ---
 
