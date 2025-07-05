@@ -57,7 +57,8 @@ This project leverages a modern, full-stack MERN architecture.
 
 | **Landing Page** | **Pantry Chef** |
 | :---: | :---: |
-| `![Landing Page](![Image](https://github.com/user-attachments/assets/8c72ac58-df4f-4443-80c7-f5ca8c4b09b8)) | `![features](![Image](https://github.com/user-attachments/assets/ab2cdf11-ee6d-4a67-96ca-091ab74d5fc0))| `![Landing Page](![Image](https://github.com/user-attachments/assets/7088b898-d1c1-43f3-8233-e7b13cdf802e))| `![Pantry Chef](![Image](https://github.com/user-attachments/assets/8a254cd0-03aa-4d63-a8b3-931ac96dda55))` |
+| ![Landing Page](https://github.com/user-attachments/assets/8c72ac58-df4f-4443-80c7-f5ca8c4b09b8) | ![features](https://github.com/user-attachments/assets/ab2cdf11-ee6d-4a67-96ca-091ab74d5fc0) |
+| ![Landing Page](https://github.com/user-attachments/assets/7088b898-d1c1-43f3-8233-e7b13cdf802e) | ![Pantry Chef](https://github.com/user-attachments/assets/8a254cd0-03aa-4d63-a8b3-931ac96dda55) |
 
 |**Search with Image AI**|**Get Result**|
 | `![Image AI](link-to-your-screenshot)` | `![Response](![Image](https://github.com/user-attachments/assets/98cd6903-7cbe-41e8-ab37-1946c41f3f46))` |
