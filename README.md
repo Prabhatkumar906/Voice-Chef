@@ -76,7 +76,7 @@ Here's a look at the VoiceChef application in action, showcasing its modern UI a
 | :---: | :---: |
 | ![AI Image Analysis](https://github.com/user-attachments/assets/cbc2be54-03f5-4416-b116-22be99331165) | ![AI Pairings](https://github.com/user-attachments/assets/ad1465ae-6c04-4395-b983-2cf663e58269) |
 | **Recipe Detail Page** | **Voice Command Guide** |
-| ![Recipe Detail Page](https://github.com/user-attachments/assets/74db9e4b-f3fe-4b0c-80c6-010b40110256) | ![Voice Command Guide](https://github.com/user-attachments/assets/e2d4f379-0d2b-4443-a705-4b096a9d5f1f) |
+| ![Recipe Detail Page](https://github.com/user-attachments/assets/e7b74957-e3ec-4ef9-8530-fcfc4f36c4bd) | ![Voice Command Guide](https://github.com/user-attachments/assets/e2d4f379-0d2b-4443-a705-4b096a9d5f1f) |
 
 ---
 
@@ -84,8 +84,8 @@ Here's a look at the VoiceChef application in action, showcasing its modern UI a
 
 | Original Instruction | Translated to Hindi | AI Simplified |
 | :---: | :---: | :---: |
-| ![Original Instruction 1](https://github.com/user-attachments/assets/87bf6aba-5922-4d19-ab52-ff5bd3779dca) | ![Translated Instruction 1](https://github.com/user-attachments/assets/99bd5a77-dfd4-4965-a2a8-a61f6fce7c80) | ![AI Simplified Instruction 1](https://github.com/user-attachments/assets/c56ef4c3-a02a-4d0a-b675-bef0d6a809bd) |
-| ![Original Instruction 2](https://github.com/user-attachments/assets/9d20ea46-b58e-4eec-8a73-31b808dd86a7) | ![Translated Instruction 2](https://github.com/user-attachments/assets/0f41d014-ca2e-4e27-b5eb-9de912c372df) | ![AI Simplified Instruction 2](https://github.com/user-attachments/assets/40d4bed3-2c31-4fba-b7c5-b61c4150baae) |
+| ![Original Instruction 1](https://github.com/user-attachments/assets/e01f667e-06b5-4b93-a1d8-aab2864ac5cf) | ![Translated Instruction 1](https://github.com/user-attachments/assets/6693cdf4-a191-4579-b995-af3beb928860) | ![AI Simplified Instruction 1](https://github.com/user-attachments/assets/8091445b-a98a-4ffb-821f-3a4b13632348) |
+| ![Original Instruction 2]( https://github.com/user-attachments/assets/d5b65669-e8f3-4354-90f1-337734207774) | ![Translated Instruction 2](https://github.com/user-attachments/assets/2435d6dd-d2d0-40ac-af1c-6f69cc4fe3b8) | ![AI Simplified Instruction 2](https://github.com/user-attachments/assets/92777287-1f67-413c-81ff-fd6d20467e1f) |
 ---
 
 ## 🚀 Getting Started
