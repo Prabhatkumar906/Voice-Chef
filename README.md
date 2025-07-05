@@ -1,6 +1,6 @@
 # 🎙️ VoiceChef - The AI-Powered Cooking Assistant
 
-**Live Demo:** [Link to your deployed application] `(You will add this link after we deploy!)`
+**Live Demo:** https://voicechef1.vercel.app/ `(You will add this link after we deploy!)`
 
 VoiceChef is a full-stack MERN application designed to revolutionize your home cooking experience. It acts as an intelligent kitchen companion that helps you discover recipes, plan meals, and cook with hands-free voice guidance, enhanced by cutting-edge AI features.
 
