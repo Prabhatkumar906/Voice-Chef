@@ -51,37 +51,7 @@ This project leverages a modern, full-stack MERN architecture.
 
 ---
 
-<!-- ## 📸 Screenshots
 
-`(This is a very important section! Take screenshots of your app and add them here. Show off the landing page, the Pantry Chef form, the recipe results, the beautiful recipe detail page, and the AI features in action.)`
-
-| **Landing Page** | **Pantry Chef** |
-| :---: | :---: |
-| ![Landing Page](https://github.com/user-attachments/assets/8c72ac58-df4f-4443-80c7-f5ca8c4b09b8) | ![features](https://github.com/user-attachments/assets/ab2cdf11-ee6d-4a67-96ca-091ab74d5fc0) |
-| ![Landing Page](https://github.com/user-attachments/assets/7088b898-d1c1-43f3-8233-e7b13cdf802e) | ![Pantry Chef](https://github.com/user-attachments/assets/8a254cd0-03aa-4d63-a8b3-931ac96dda55) |
-
-|**Search with Image AI**|**Get Result**|
-| `![Image AI](link-to-your-screenshot)` | `![Response](![Image](https://github.com/user-attachments/assets/98cd6903-7cbe-41e8-ab37-1946c41f3f46))` |
-
-
-| **Recipe Detail Page** | **AI Pairings** |
-| `![Recipe Detail](![Image](https://github.com/user-attachments/assets/74db9e4b-f3fe-4b0c-80c6-010b40110256))` | `![AI Pairings](![Image](https://github.com/user-attachments/assets/2e014594-06d6-48ad-b4e4-bafa5819afa6))` |
-
-| **recipe imstruction** | **Voice Command** |
-| `![recipe instruction in diffrent language](![Image](https://github.com/user-attachments/assets/99bd5a77-dfd4-4965-a2a8-a61f6fce7c80)
-
-![Image](https://github.com/user-attachments/assets/c56ef4c3-a02a-4d0a-b675-bef0d6a809bd)
-
-![Image](https://github.com/user-attachments/assets/87bf6aba-5922-4d19-ab52-ff5bd3779dca)
-
-![Image](https://github.com/user-attachments/assets/9d20ea46-b58e-4eec-8a73-31b808dd86a7)
-
-![Image](https://github.com/user-attachments/assets/0f41d014-ca2e-4e27-b5eb-9de912c372df)
-
-![Image](https://github.com/user-attachments/assets/40d4bed3-2c31-4fba-b7c5-b61c4150baae))` | `![Voice Command](![Image](https://github.com/user-attachments/assets/e4a4a37e-1608-45ca-aa90-c23f2fcc8a06))` |
-
-| **My Profile Page** | **My Cookbook Page** |
-| `![Recipe Detail](![Image](https://github.com/user-attachments/assets/e69d0ac4-3208-4812-a88a-a8658ff478f5))` | `![My Cookbook Page](![Image](https://github.com/user-attachments/assets/0085de61-f5d2-430e-8290-d58dfc007cdd))` | -->
 
 
 ## 📸 Screenshots
@@ -94,7 +64,7 @@ Here's a look at the VoiceChef application in action, showcasing its modern UI a
 
 | Landing Page (Logged Out) | Pantry Chef (Logged In) |
 | :---: | :---: |
-| ![Landing Page Screenshot 1](https://github.com/user-attachments/assets/8c72ac58-df4f-4443-80c7-f5ca8c4b09b8) <br> ![Landing Page Screenshot 2](https://github.com/user-attachments/assets/ab2cdf11-ee6d-4a67-96ca-091ab74d5fc0) <br> ![Landing Page Screenshot 3](https://github.com/user-attachments/assets/1193592b-2bd3-4162-8277-225af96bee4b) <br> ![Landing Page Screenshot 4](https://github.com/user-attachments/assets/7088b898-d1c1-43f3-8233-e7b13cdf802e) | ![Pantry Chef Search](https://github.com/user-attachments/assets/8a254cd0-03aa-4d63-a8b3-931ac96dda55) |
+| ![Landing Page Screenshot 1](https://github.com/user-attachments/assets/f49ce4fa-4557-47d6-9d4b-19c4bdfcdb43) <br> ![Landing Page Screenshot 2](https://github.com/user-attachments/assets/05bde150-3e44-495e-bb69-f49a4a222b07) <br> ![Landing Page Screenshot 3](https://github.com/user-attachments/assets/d40d519c-3204-4342-bcbd-ca46d34c82d4) <br> ![Landing Page Screenshot 4](https://github.com/user-attachments/assets/1e355905-ec15-44fd-ab1d-22bf77350ddb) | ![Pantry Chef Search](https://github.com/user-attachments/assets/8a254cd0-03aa-4d63-a8b3-931ac96dda55) |
 | **My Cookbook Page** | **My Profile Page** |
 | ![My Cookbook Page](https://github.com/user-attachments/assets/0085de61-f5d2-430e-8290-d58dfc007cdd) | ![Profile Page](https://github.com/user-attachments/assets/e69d0ac4-3208-4812-a88a-a8658ff478f5) |
 
