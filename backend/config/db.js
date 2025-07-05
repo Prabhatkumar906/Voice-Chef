@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 
 // This is the connection string for your local MongoDB database.
 // The last part of the URL ('voicechef') is the name of the database that will be created.
-const db = 'mongodb://localhost:27017/voicechef';
+const db = process.env.MONGO_URI || 'mongodb://localhost:27017/voicechef';
 
 const connectDB = async () => {
   try {
